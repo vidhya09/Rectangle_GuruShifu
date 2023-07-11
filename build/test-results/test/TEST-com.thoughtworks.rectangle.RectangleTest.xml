@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.thoughtworks.rectangle.RectangleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-11T07:23:57" hostname="gurushifu-gurushifugitp-zgdn52m15i3" time="0.015">
+<testsuite name="com.thoughtworks.rectangle.RectangleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-11T07:34:03" hostname="gurushifu-gurushifugitp-zgdn52m15i3" time="0.015">
   <properties/>
   <testcase name="shouldReturnValidAreaWhenLengthAndBreadthIsGiven()" classname="com.thoughtworks.rectangle.RectangleTest" time="0.015"/>
   <system-out><![CDATA[]]></system-out>
